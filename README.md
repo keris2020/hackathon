@@ -30,7 +30,7 @@
 ![image](https://user-images.githubusercontent.com/72900535/96530750-0662e800-12c3-11eb-817e-96058b8cf3aa.png)
 
 ## FAQ
-Github 회원 가입 방법: https://github.com/keris2020/hackathon/issues/2#issue-725131238
+Github 회원 가입 방법: https://github.com/keris2020/hackathon/issues/2#issue-725131238 <br>
 실시간 문의 사이트 사용방법: https://github.com/keris2020/hackathon/issues/1#issue-725130546
 
 ## 문의
