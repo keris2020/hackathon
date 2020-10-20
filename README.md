@@ -31,6 +31,13 @@
 
 ## FAQ
 ...
-문의: help.keris@gmail.com
+
+
 ## 문의
-help.keris@gmail.com
+
+실시간 온라인 문의 운영기간: 2020.11.02 ~ 11.14 (월~금 15:00 ~ 18:00) <br>
+실시간 온라인 문의 웹 주소: https://app.sli.do/event/f3usp3m1 <br>
+<br>
+대회 Issues 게시판 및 이메일 문의는 대회 시간 사싱 운영<br>
+대회 Issues 게시판: https://github.com/keris2020/hackathon/issues <br>
+이메일: help.keris@gmail.com 
