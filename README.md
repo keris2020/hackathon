@@ -22,7 +22,7 @@
 ## 참가신청
 2020.10.26.(월) 12:00 ~ 10.29.(목) 15:00 <br>
 - 신청서 제출: jnk@keris.or.kr<br>
-*제출서류: KERIS AI 해커톤 참가 신청서
+*제출서류: KERIS AI 해커톤 참가 신청서 (Github 아이디는 필수 기입)
 
 ## 추진
 - 주관:
@@ -30,8 +30,8 @@
 ![image](https://user-images.githubusercontent.com/72900535/96530750-0662e800-12c3-11eb-817e-96058b8cf3aa.png)
 
 ## FAQ
-
-실시간 문의 방법:https://github.com/keris2020/hackathon/issues/1#issue-725130546
+Github 회원 가입 방법: https://github.com/keris2020/hackathon/issues/2#issue-725131238
+실시간 문의 사이트 사용방법: https://github.com/keris2020/hackathon/issues/1#issue-725130546
 
 ## 문의
 
