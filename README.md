@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/72900535/96069868-0dac7f00-0eda-11eb-9d27-70bebfb0255e.png)
+![image](https://user-images.githubusercontent.com/72900535/96531340-6ad27700-12c4-11eb-8431-445fc02f99bf.png)
 # KERIS Hackathon 2020
 인공지능 개발에 도전해보세요! <p>
 <br>  
