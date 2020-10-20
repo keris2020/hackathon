@@ -36,7 +36,7 @@
 ## 문의
 
 실시간 문의: 2020.11.02 ~ 11.14 (월~금 15:00 ~ 18:00) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://app.sli.do/event/f3usp3m1 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://app.sli.do/event/f3usp3m1 <br>
 <br>
 온라인 게시판 및 이메일 문의는 대회기간 사싱 운영<br>
 온라인 게시판: https://github.com/keris2020/hackathon/issues <br>
