@@ -25,8 +25,7 @@
 ## 추진
 - 주관:
 ![image](https://user-images.githubusercontent.com/72900535/96530265-0b736780-12c2-11eb-81c5-a0575545e438.png)
-![image](https://user-images.githubusercontent.com/72900535/96530591-b84de480-12c2-11eb-9e2b-0d277f825393.png)
-![image](https://user-images.githubusercontent.com/72900535/96530617-c56ad380-12c2-11eb-949e-aa15524c8c90.png)
+![image](https://user-images.githubusercontent.com/72900535/96530750-0662e800-12c3-11eb-817e-96058b8cf3aa.png)
 
 ## FAQ
 ...
