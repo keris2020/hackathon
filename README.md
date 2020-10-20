@@ -20,7 +20,9 @@
 해커톤 플랫폼 리더보드 순위
 
 ## 참가신청
-- 문의: help.keris@gmail.com  
+2020.10.26.(월) 12:00 ~ 10.29.(목) 15:00 <br>
+- 신청서 제출: jnk@keris.or.kr<br>
+  *제출 서류 KERIS AI 해커톤 참가 신청서
 
 ## 추진
 - 주관:
@@ -29,6 +31,6 @@
 
 ## FAQ
 ...
-
+문의: help.keris@gmail.com
 ## 문의
 help.keris@gmail.com
