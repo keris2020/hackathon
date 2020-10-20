@@ -23,10 +23,10 @@
 - 문의: help.keris@gmail.com  
 
 ## 추진
-- 주최
+- 주관:
 ![image](https://user-images.githubusercontent.com/72900535/96530265-0b736780-12c2-11eb-81c5-a0575545e438.png)
-- 주관: 
-- 후원: 
+![image](https://user-images.githubusercontent.com/72900535/96530591-b84de480-12c2-11eb-9e2b-0d277f825393.png)
+![image](https://user-images.githubusercontent.com/72900535/96530617-c56ad380-12c2-11eb-949e-aa15524c8c90.png)
 
 ## FAQ
 ...
