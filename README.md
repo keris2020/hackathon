@@ -2,7 +2,7 @@
 # KERIS Hackathon 2020
 ### KERIS 인공지능 개발 학생 체험대회
 ### 네이버는 인공지능을 어떻게 개발할까?
-"Naver Smart Machine Learning Platform을 이용하여, 실제 인공지능 개발을 참여하는 AI 해커톤"
+#### "Naver Smart Machine Learning Platform을 이용하여, 실제 인공지능 개발을 참여하는 AI 해커톤"
   
 ## 미션
 #### 1. 연습용 AI 문제 : 영화 평점 예측문제<br>
@@ -25,7 +25,7 @@
 ## 참가신청
 1. 신청 기간: 2020.10.26.(월) 12:00 ~ 10.29.(목) 15:00 <br>
 2. 신청서 제출: jnk@keris.or.kr<br>
-*제출서류: KERIS AI 해커톤 참가 신청서 (Github 아이디 기입 필수)
++ 제출서류: KERIS AI 해커톤 참가 신청서 (Github 아이디 기입 필수)
 
 ## 추진
 - 주관:
@@ -42,7 +42,7 @@
  - 운영 시간2020.11.02 ~ 11.14 (월~금 15:00 ~ 18:00)
  - 문의 게시판 [Slido](https://app.sli.do/event/f3usp3m1)
  
-### 온라인 게시판 및 이메일 문의는 대회기간 상시 운영
+### 온라인 게시판 및 이메일 문의
 * 온라인 게시판: https://github.com/keris2020/hackathon/issues
 * 이메일: help.keris@gmail.com 
 * 온라인 게시판 및 이메일 문의는 대회기간 상시 운영
