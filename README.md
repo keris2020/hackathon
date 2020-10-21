@@ -38,8 +38,9 @@
 
 ## 추진
 ### 주관
-![image](https://user-images.githubusercontent.com/72900535/96530265-0b736780-12c2-11eb-81c5-a0575545e438.png)
-![image](https://user-images.githubusercontent.com/72900535/96530750-0662e800-12c3-11eb-817e-96058b8cf3aa.png)
+<img src="https://user-images.githubusercontent.com/72900535/96530265-0b736780-12c2-11eb-81c5-a0575545e438.png" width="50%" height="50%">
+
+<img src="https://user-images.githubusercontent.com/72900535/96530750-0662e800-12c3-11eb-817e-96058b8cf3aa.png" width="40%" height="40%">
 
 ## FAQ
 * [Github 회원 가입 방법](https://github.com/keris2020/hackathon/issues/2#issue-725131238)
