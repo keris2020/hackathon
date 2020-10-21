@@ -45,3 +45,4 @@
 ### 온라인 게시판 및 이메일 문의는 대회기간 상시 운영
 * 온라인 게시판: https://github.com/keris2020/hackathon/issues
 * 이메일: help.keris@gmail.com 
+* 온라인 게시판 및 이메일 문의는 대회기간 상시 운영
