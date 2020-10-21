@@ -1,8 +1,8 @@
 ![image](https://user-images.githubusercontent.com/72900535/96531340-6ad27700-12c4-11eb-8431-445fc02f99bf.png)
 # KERIS Hackathon 2020
 ### KERIS 인공지능 개발 학생 체험대회
-#### 네이버는 인공지능을 어떻게 개발할까?
-Naver Smart Machine Learning Platform을 이용하여, 실제 인공지능 개발을 참여하는 AI 해커톤
+### 네이버는 인공지능을 어떻게 개발할까?
+"Naver Smart Machine Learning Platform을 이용하여, 실제 인공지능 개발을 참여하는 AI 해커톤"
   
 ## 미션
 #### 1. 연습용 AI 문제 : 영화 평점 예측문제<br>
@@ -29,7 +29,6 @@ Naver Smart Machine Learning Platform을 이용하여, 실제 인공지능 개�
 
 ## 추진
 - 주관:
-<img src="https://user-images.githubusercontent.com/72900535/96530265-0b736780-12c2-11eb-81c5-a0575545e438.png" width="50%" height="40%>
 ![image](https://user-images.githubusercontent.com/72900535/96530265-0b736780-12c2-11eb-81c5-a0575545e438.png)
 ![image](https://user-images.githubusercontent.com/72900535/96530750-0662e800-12c3-11eb-817e-96058b8cf3aa.png)
 
@@ -40,7 +39,7 @@ Naver Smart Machine Learning Platform을 이용하여, 실제 인공지능 개�
 ## 문의
 
 * 실시간 문의: 2020.11.02 ~ 11.14 (월~금 15:00 ~ 18:00) <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://app.sli.do/event/f3usp3m1 <br>
+https://app.sli.do/event/f3usp3m1 <br>
 <br>
 * 온라인 게시판 및 이메일 문의는 대회기간 상시 운영<br>
 * 온라인 게시판: https://github.com/keris2020/hackathon/issues <br>
