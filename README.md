@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/72900535/97286202-8f12f280-1886-11eb-977d-ce37f15c5e8f.png" width="110%" height="90%">
 
-# KERIS Hackathon 2020 인공지능 개발 학생 체험대회
+# KERIS 2020 AI 해커톤
 ### AI 기업은 인공지능을 어떻게 개발할까?
 > "Naver Smart Machine Learning Platform을 이용하여 실제 인공지능 개발을 참여하는 AI 해커톤"
   
