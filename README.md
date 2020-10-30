@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/72900535/97286202-8f12f280-1886-11eb-977d-ce37f15c5e8f.png" width="110%" height="90%">
+<img src="https://user-images.githubusercontent.com/72900535/97653869-2190dd00-1aa5-11eb-97f4-75714f300b2c.png" width="110%" height="90%">
 
 # KERIS 2020 AI 해커톤
 ### AI 기업은 인공지능을 어떻게 개발할까?
