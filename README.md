@@ -38,12 +38,6 @@
   + 제출서류
     + KERIS AI 해커톤 참가 신청서 1부 **(Github 아이디 기입 필수)**
 
-## 추진
-### 주관
-<img src="https://user-images.githubusercontent.com/72900535/96530265-0b736780-12c2-11eb-81c5-a0575545e438.png" width="50%" height="50%">
-
-<img src="https://user-images.githubusercontent.com/72900535/96530750-0662e800-12c3-11eb-817e-96058b8cf3aa.png" width="40%" height="40%">
-
 ## FAQ
 * [Github 회원 가입 방법](https://github.com/keris2020/hackathon/issues/2#issue-725131238)
 * [실시간 문의 사이트 사용방법](https://github.com/keris2020/hackathon/issues/1#issue-725130546)
